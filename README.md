@@ -1,1 +1,3 @@
-更新# sample.repo
+更新しました。
+
+# sample.repo
